@@ -1,4 +1,4 @@
 👋 Hi, I’m @Rogowiak
-SGGW in Warsaw IT student
+SGGW in Warsaw computer science student
 C#, Js and Py
 
